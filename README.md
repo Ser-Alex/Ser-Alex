@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ser-Alex
+- 👀 I want to become a very cool programmer
+- 🌱 I am currently learning Python
+- 📫 How to reach me ser.alex.serb@gmail.com
